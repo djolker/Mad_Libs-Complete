@@ -1,0 +1,6 @@
+c:\users\dj\documents\visual studio 2012\Projects\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+c:\users\dj\documents\visual studio 2012\Projects\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+c:\users\dj\documents\visual studio 2012\Projects\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+c:\users\dj\documents\visual studio 2012\Projects\MadLibs\MadLibs\obj\Debug\MadLibs.csprojResolveAssemblyReference.cache
+c:\users\dj\documents\visual studio 2012\Projects\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+c:\users\dj\documents\visual studio 2012\Projects\MadLibs\MadLibs\obj\Debug\MadLibs.pdb

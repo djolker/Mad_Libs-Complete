@@ -1,0 +1,7 @@
+<story>
+	<piece story="This is the beginning of the story, at some place in this there will be a " />
+	<gap text="NOUN" />
+	<piece story ="The formatting of the XML document goes as follows: (story)>(piece)-(gap) "/>
+	<gap text="VERB" />
+	<piece story="Story documents require that there be gap node for every piece (unless you have reached the end of the story). The gap node will include a piece of text meant to represent the type of word you're looking for the user to input (Noun verb place etc).  You can write anything in a gap node, as it will be directly sent to the user." />
+</story>

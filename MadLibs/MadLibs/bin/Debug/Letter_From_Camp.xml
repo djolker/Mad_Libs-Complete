@@ -1,0 +1,49 @@
+<story>
+	<piece story="Dear " />
+	<gap text="Relative" />
+	
+	<piece story="I am having a(n)" />
+	<gap text="Adjective" />
+	
+	<piece story=" time at camp. The counsellor is " />
+	<gap text="Adjective" />
+	
+	<piece story=" and the food is " />
+	<gap text="Adjective" />
+	
+	<piece story=". I met "/>
+	<gap text="Name of person in room" />
+	
+	<piece story=" and we became " />
+	<gap text="Adjective" />
+	
+	<piece story=" friends. Unfortunately is " />
+	<gap text="Adjective" />	
+	
+	<piece story=" and I " />
+	<gap text="Verb ending in ED" />	
+	
+	<piece story=" my " />
+	<gap text="Body Part" />	
+	
+	<piece story=" so we couldn't go " />
+	<gap text="Verb ending in ING" />	
+	
+	<piece story=" like everybody else. I need more " />
+	<gap text="Noun (Plural)" />
+	
+	<piece story=" and a " />
+	<gap text="Noun" />
+	
+	<piece story=" sharpener, so please " />
+	<gap text="Adverb and Verb" />
+	
+	<piece story=" more when you "/>
+	<gap text="Verb" />
+	
+	<piece story="Your " />
+	<gap text="Relative" />
+	
+	<piece story=", " />
+	<gap text="Name" />
+</story>
